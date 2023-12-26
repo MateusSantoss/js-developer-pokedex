@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: white;
+}
+
+
+
+
+
+.informacoes  {
+    background-color: white;
+    padding: 1rem;
+    color: black;
+    border-radius: 10px 10px;
+    height: 100%;
+}
+
+.informacoes ul  {
+    list-style: none;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+
+
+
